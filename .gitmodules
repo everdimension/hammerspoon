@@ -1,0 +1,3 @@
+[submodule "Spoons/ControlEscape.spoon"]
+	path = Spoons/ControlEscape.spoon
+	url = git@github.com:everdimension-personal/ControlEscape.spoon.git
