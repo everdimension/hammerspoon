@@ -26,20 +26,14 @@ end
 local LayoutPair = require("layout_pair")
 local browserTerminalPair = LayoutPair.new({
   leftApps = {
-    "Arc",
-    "Brave Browser",
     "Firefox",
     "Google Chrome",
     "Safari",
   },
   rightApps = {
-    "Alacritty",
     "Ghostty",
     "iTerm2",
-    "kitty",
     "Terminal",
-    "Warp",
-    "WezTerm",
   },
   raiseBehindApps = {
     "Zed",
